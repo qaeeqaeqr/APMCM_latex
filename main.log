@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  25 NOV 2023 12:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  25 NOV 2023 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -863,10 +863,59 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
  (./main.toc
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.0pt on input line 11.
-)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 71.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 71.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
+(Font)              scaled to size 12.0pt on input line 100.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[1]
+<figures//origin_new_energy_data.png, id=18, 462.528pt x 346.896pt>
+File: figures//origin_new_energy_data.png Graphic file (type png)
+<use figures//origin_new_energy_data.png>
+Package pdftex.def Info: figures//origin_new_energy_data.png  used on input lin
+e 113.
+(pdftex.def)             Requested size: 360.01521pt x 264.0142pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.95pt on input line 114.
+<figures//interpolated_new_energy_data.png, id=20, 462.528pt x 346.896pt>
+File: figures//interpolated_new_energy_data.png Graphic file (type png)
+<use figures//interpolated_new_energy_data.png>
+Package pdftex.def Info: figures//interpolated_new_energy_data.png  used on inp
+ut line 120.
+(pdftex.def)             Requested size: 360.01521pt x 264.0142pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -885,44 +934,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 98.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 98.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 98.
-
-LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
-(Font)              scaled to size 12.0pt on input line 100.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[1]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[2] (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+[3 <./figures//origin_new_energy_data.png> <./figures//interpolated_new_energy_
+data.png>] (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
@@ -932,7 +945,7 @@ File: UTF8.enc 2021/10/16 4.8.5
 File: UTF8.chr 2021/10/16 4.8.5
 )
 LaTeX Font Info:    Trying to load font information for C70+gbsn on input line 
-172.
+194.
 
 (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gbsn.fd
 File: c70gbsn.fd 2021/10/16 4.8.5
@@ -948,7 +961,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]
+[4]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -957,14 +970,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4]
+[5]
 LaTeX Font Info:    Trying to load font information for OT1+ntxtt on input line
- 197.
+ 219.
  (c:/texlive/2022/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
 File: ot1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `OT1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 197.
+(Font)              scaled to size 10.95pt on input line 219.
 
 
 AED: lastpage setting LastPage
@@ -976,52 +989,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5] (./main.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.45pt have occurred.
-
- ) 
+[6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 14004 strings out of 478268
- 205577 string characters out of 5850345
- 517119 words of memory out of 5000000
- 31891 multiletter control sequences out of 15000+600000
- 523216 words of font info for 159 fonts, out of 8000000 for 9000
+ 14006 strings out of 478268
+ 206197 string characters out of 5850345
+ 517135 words of memory out of 5000000
+ 31885 multiletter control sequences out of 15000+600000
+ 509136 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,12n,131p,612b,1120s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<c:/texlive
-/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/2022/texmf-di
-st/fonts/type1/arphic/gbsnu/gbsnu30.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/arphic/gbsnu/gbsnu4e.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/
-gbsnu4f.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu51.pfb><c
-:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb><c:/texlive/2022
-/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><c:/texlive/2022/texmf-dist/fo
-nts/type1/arphic/gbsnu/gbsnu57.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arph
-ic/gbsnu/gbsnu59.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu
-5b.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5c.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><c:/texlive/2022/texmf-dist/fonts/t
-ype1/arphic/gbsnu/gbsnu62.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gb
-snu/gbsnu63.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu65.pf
-b><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.pfb><c:/texlive/
-2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/arphic/gbsnu/gbsnu68.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
-arphic/gbsnu/gbsnu6a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/g
-bsnu76.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu80.pfb><c:
-/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><c:/texlive/2022/
-texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/arphic/gbsnu/gbsnu91.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphi
-c/gbsnu/gbsnu96.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuf
-f.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/txtt.pfb><c:/texli
-ve/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/public/newtx/ztmbi.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pu
-blic/newtx/ztmr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmri.
-pfb>
-Output written on main.pdf (8 pages, 243800 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf
+.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texli
+ve/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu30.pfb><c:/texlive/2022/texmf-
+dist/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><c:/texlive/2022/texmf-dist/fonts/typ
+e1/arphic/gbsnu/gbsnu4f.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsn
+u/gbsnu51.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu52.pfb>
+<c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu53.pfb><c:/texlive/20
+22/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb><c:/texlive/2022/texmf-dist/
+fonts/type1/arphic/gbsnu/gbsnu59.pfb><c:/texlive/2022/texmf-dist/fonts/type1/ar
+phic/gbsnu/gbsnu5b.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbs
+nu5c.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><c:/t
+exlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu5f.pfb><c:/texlive/2022/te
+xmf-dist/fonts/type1/arphic/gbsnu/gbsnu62.pfb><c:/texlive/2022/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu63.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/
+gbsnu/gbsnu65.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu66.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu67.pfb><c:/texliv
+e/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu68.pfb><c:/texlive/2022/texmf-d
+ist/fonts/type1/arphic/gbsnu/gbsnu6a.pfb><c:/texlive/2022/texmf-dist/fonts/type
+1/arphic/gbsnu/gbsnu76.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu
+/gbsnu80.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8b.pfb><
+c:/texlive/2022/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu8f.pfb><c:/texlive/202
+2/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu91.pfb><c:/texlive/2022/texmf-dist/f
+onts/type1/arphic/gbsnu/gbsnu96.pfb><c:/texlive/2022/texmf-dist/fonts/type1/arp
+hic/gbsnu/gbsnuff.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/txfonts/tx
+tt.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texliv
+e/2022/texmf-dist/fonts/type1/public/newtx/ztmbi.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pub
+lic/newtx/ztmri.pfb>
+Output written on main.pdf (9 pages, 615044 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
+ 201 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
